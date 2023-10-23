@@ -1,0 +1,35 @@
+
+.Dias-Horarios {
+ color: rgb(75, 145, 140);
+    background-color: rgb(240, 240, 240);
+}
+
+.tabla {
+    border-spacing: 0;
+     text-align: center;
+     margin: 0 auto ;
+     width: 70%;
+     text-align: center;
+}
+
+.LMSG{
+    background-color: rgb(248,212 ,86 );
+}
+.ING{
+    background-color: rgb(119, 178, 235);
+}
+.FOL{
+background-color: rgb(161, 252, 254);
+}
+.BDD{
+background-color: rgb(246, 202, 201);
+}
+.SISI{
+background-color: rgb(180, 180, 110);
+}
+.PROG{
+background-color: rgb(178, 123, 122);
+}
+.ENDE{
+    background-color: rgb(97, 197, 199);
+}
